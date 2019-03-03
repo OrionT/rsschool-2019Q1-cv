@@ -25,3 +25,21 @@ email: vadzim.sasonkin@gmail.com
 #### Code examples
 ##### [Gps web application](https://github.com/OrionT/NG6-starter)
 ##### [Calendar example](https://github.com/OrionT/podcast)
+
+### Employment 
+
+- 2019: Product engineer, Web developer - Taskvizor
+
+> In this role I worked in a small team of developers, where we have designed and implemented a new product on Belarussian market from scratch. The main part of time I've spent developing web interface for our product written on angularjs framework. During 1.5 years I worked in pair with my team mate, and then I continued to enhance product features alone. At this job I also had some small projects in python, databases (postgresql), pentaho ETL tool
+
+- 2015: Support engineer, R&D engineer -  Beltelematika
+
+> In this role I gained good communication experience, got basic knowledge of how technical products is maintained and what problems do the customers do face.
+
+### Education
+
+- Master Level(2011-2012)     Networks and telecommunications, BSUiR, Telecommunications faculty
+- Bachelor level (2006-2011)     Computer security - BSU, Radiophysics faculty
+
+### English
+Level B1
